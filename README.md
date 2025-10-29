@@ -1,16 +1,63 @@
 # coherosphere / manifesto
 
-The coherosphere manifesto defines the sphere of coherence — a global resonance space where humanity, technology, and values align.
+**The coherosphere is the sphere of coherence — where humanity, technology, and values align.**
 
-It is a call to action against fragmentation and centralization, outlining a vision for decentralized coordination, ethical AI, and collective meaning.
+This repository contains the **coherosphere manifesto**:  
+a living declaration that defines the moral and philosophical foundation  
+of a decentralized civilization in resonance with life.  
 
-The Manifesto frames the coherosphere as the next evolutionary layer after the Noosphere: not just a sphere of thought, but a sphere of coherence — where impact, alignment, and resonance become the new basis of governance and trust.
+It is both a **vision and a vow** — a call to transform fragmentation into coherence,  
+competition into contribution, and technology into meaning.
 
-Learn more: https://coherosphere.com/manifesto
+---
 
-Keywords: coherosphere, Manifesto, Sphere of Coherence, Decentralized Ethics, Proof-of-Contribution, Resonance, Collective Intelligence, DAO, Noosphere, Human-Centered AI, Decentralized Civilization.
+## Purpose
 
-(Public Manifesto, CC BY 4.0 – coherosphere collective, 2025)
+The manifesto establishes the **ethical and ontological roots** of the coherosphere.  
+It frames the transition from disconnection to alignment, outlining a path toward  
+systems that are self-steering, transparent, and grounded in shared human purpose.
+
+It serves as:
+- a **moral constitution** for the coherosphere community,  
+- a **north star** for governance, AI, and economics,  
+- and a **philosophical seed** from which the Whitepaper and Architecture evolve.  
+
+---
+
+## Contents
+
+- **Foundational Principles** — coherence, alignment, resonance, participation  
+- **Declaration of Intent** — technology must serve life, not dominate it  
+- **Cultural Ethos** — transparency, diversity, and shared meaning  
+- **From Fragmentation to Coherence** — the human transition narrative  
+- **Manifest as Code** — guiding architecture for Proof-of-Contribution systems  
+
+The manifesto is not fixed — it evolves.  
+Every revision is versioned on-chain and co-authored through community consensus.
+
+---
+
+## Core Statements
+
+> “Power arises from alignment, not from possession.”  
+>  
+> “Freedom is coherence — the capacity to act in resonance with truth.”  
+>  
+> “Technology is sacred when it amplifies life.”  
+
+These sentences are not slogans but **axioms** —  
+they encode the guiding logic that every coherosphere system must embody.
+
+---
+
+## Usage
+
+You may:
+- Cite, share, and translate this text under **CC BY 4.0**.  
+- Reference it in research or decentralized governance frameworks.  
+- Include excerpts in derivative works (e.g., whitepapers, constitutions, or DAOs).  
+
+Please preserve the attribution to **the coherosphere collective**.
 
 ---
 
